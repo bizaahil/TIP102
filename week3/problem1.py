@@ -16,3 +16,4 @@ Return a list of performance IDs that remain scheduled on the stage after all ch
 
 
 def manage_stage_changes(changes):
+    pass
