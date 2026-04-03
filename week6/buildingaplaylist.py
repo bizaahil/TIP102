@@ -1,5 +1,5 @@
 class SongNode:
-    def __init__(self, song, next=None)
+    def __init__(self, song, next=None):
         self.song = song
         self.next = next
 
